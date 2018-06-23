@@ -1,0 +1,2 @@
+npm install --save vuefire
+npm install --save firebase
